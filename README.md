@@ -2,6 +2,7 @@
 
 
 ## Project Overview
+This project is a SQL based Vehicle Rental Management System designed to demonstrate core database concepts such as edr, queries and video viva.
 
 
 # Database Diagram Overview
@@ -28,9 +29,5 @@ All queries are written and stored in the queries.sql file. Each query is design
 
  ## Tools & Technologies
  PostgreSQL
- Drawsql (for ERD)
+ Drawsql for ERD
  GitHub
-
- # GitHub Repo: https://github.com/TwistMehedi/assignment-3
- # ERD Link: https://drawsql.app/teams/mehedi-hasan-4/diagrams/vehicle-rental-system,
- # Viva Video Link:
